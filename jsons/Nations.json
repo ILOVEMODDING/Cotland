@@ -1,30 +1,30 @@
 {
  [
 "name": "Cotland",
-		"leaderName": "Copelton Manhanshell",
+		"leaderName": "Vassileyev Un Solace",
 		"adjective": ["Cotlandic"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Copelton Manhanshell",
 
-        "startIntroPart1": "President Copelton, we salute you and the proud Cotlandian civilization!, All the way in North Napatolia, We Were colonized and then Freed from the British dominion in the year 1761, then cleansed and reborn after a terrible civil war, Cotland was ready to Love Live and Save. At the height of its power, triumphant after two terrible world wars, The Federal Republic of Cotland, a land of Children, Love, opportunities, optimism and determination, has remained humble across nations, To Love Children and raise them.",
-        "startIntroPart2": "President Copelton, will you show to the world the legitimacy of the Cotlandic way of life, and spread the flame of love and friendliness to all mankind? Will your new empire shine through the ages of history?",
+        "startIntroPart1": "President Vassileyev, we salute you and the proud Cotlandian civilization!, All the way in North Napatolia, We Were first some Tribes of Farmers and Fishers in the Asian Subcontinent, Forming our First Kingdom in 1000 BC, colonized and then Freed from the British dominion in the year 1761 by our Humble Founder Copelton, then cleansed by a War for Unification and reborn after a terrible civil war before getting a new rule under it in 1945, Cotland was ready to Love Live and Save. At the height of its power, After A Civil War during 1945, The Cotlandic Solacist Party, The Party from the People for the People, The Federation of the Federal Republics of Cotland, a land of Children, Love, opportunities, optimism and determination, has remained humble across nations, To Love and build.",
+        "startIntroPart2": "President Vassileyev, will you show to the world the legitimacy of the Cotlandic way of life, and spread the flame of love and friendliness to all mankind? Will your new empire shine through the ages of history?",
 
-        "declaringWar": "Your hatred and Despise for children leaves us no choice. Prepare for war!",
-		"attacked": "You have mistaken our pacifism and Love for children for weakness. You shall regret this!",
-		"defeated": "The day...is yours. We hope you spare the children atleast...",
-		"introduction": "On behalf of the Men, women and children of Cotland, I, Copelton of Cotland welcome you.",
-		"neutralHello": "How are the children?",
+        "declaringWar": "Your hatred, belittling and Despise for us leaves us no choice. Prepare for war!",
+		"attacked": "You have mistaken our pacifism and Love for weakness. You shall regret this!",
+		"defeated": "The day...is yours. We hope you spare the women and children atleast...",
+		"introduction": "On behalf of the Men, women and children of Cotland, I, Leader Vassileyev of Cotland welcome you.",
+		"neutralHello": "How is the family?",
 		"hateHello": "We hope your people won't grow to hate us.",
-		"tradeRequest": "We present our humble offering, Is the following trade of interest to you?",
+		"tradeRequest": "We present our humble offer, Is the following trade of interest to you?",
 
         "outerColor": [ 28,51,119],
         "innerColor": [255,255,255],
 
         "favoredReligion": "Christianity",
 		"uniqueName": "Love for the Young",
-		"uniques": ["[+3] Happiness <for every {[1 new population]} [in all cities]>", "[+10]% Happiness for every new public school [in all cities]", "[+15] Culture for every new public school building [in all cities]"] 
+		"uniques": ["[+3] Happiness <for every {[1 new population]} [in all cities]>", "[+10]% Happiness for every new public school [in all cities]", "[+5] Culture for every new public school building [in all cities]"] 
 		"cities": ["Copelton","Oreston","Prenton","Windsor","Westfield","Eastfield","Drentvillie","Maranton","South Port","Northren Farms",
 			"Southren Farms","St. Manschellen","Kawanii","West Port","Nola","Toola","Georgeston","New Port","Destiny Land","Moore Island",
 			"Cleverland","Eneward","Lolita","New Windsor","Nami City"],
-        "spyNames": ["Cooper", "Mansenchell", "Danny", "Careman", "Prof. Illina", "Sally", "Nena", "Kini", "Kino", "Kukimi"]
+        "spyNames": ["Amnon", "Mansenchell", "Nina", "Nas-lamin", "Prof. Illina", "Sally", "Nena", "Kini", "Kino", "Kukimi"]
 	},
